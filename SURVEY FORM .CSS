@@ -1,0 +1,14 @@
+.form-group {
+  margin: 0 auto 1.25rem auto;
+  padding: 0.25rem;
+}
+div {
+  display: block;
+}
+body {
+  font-family: 'poppins', sans-serif;
+  font-size:1rem;
+  font-weight:400;
+  font-height:1.4;
+  color: white;
+}
