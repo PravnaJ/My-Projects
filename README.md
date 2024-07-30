@@ -8,7 +8,7 @@
      <div class="container">
        <header id="header">
          <h1 id="title" class="text=center">JP's form<h1>
-           <p id="description" class="description text-center">Thank you for taking yoour time for filling this form</p>
+           <p id="description" class="description text-center">Thank you for taking your time for filling this form</p>
            </header>
      <form id="survey-form">
        <div class="form group">
