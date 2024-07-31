@@ -1,4 +1,4 @@
-# freecodecamp-practice
+# Freecodecamp-practice
 <!DOCTYPE html>
  <html lang="em">
    <head>
